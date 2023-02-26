@@ -15,7 +15,8 @@ touch
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.37.1 (Apple Git-137.1)
 # 8 - Why would you run the command 'git status'?
-
+check changes in file
 # 9 - What does the command 'git add .' do?
-
+shows if the file is staged or unstaged
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git commit -m
